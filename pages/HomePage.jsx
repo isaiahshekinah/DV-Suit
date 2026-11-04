@@ -128,7 +128,7 @@ export default function HomePage() {
           </div>
         </section>
 
-        <section className="site-grid px-5 py-16 sm:px-8 sm:py-20 lg:px-12 lg:py-28">
+        <section id='measurements' className="site-grid px-5 py-16 sm:px-8 sm:py-20 lg:px-12 lg:py-28">
           <div className="mx-auto max-w-4xl text-center">
             <p className="text-[10px] font-bold tracking-[.22em] text-[#9b7944]">YOUR FIT, YOUR WAY</p>
             <h2 className="serif mt-4 text-4xl leading-tight sm:text-6xl">The best fit is<br/><span className="italic">the one made for you.</span></h2>
